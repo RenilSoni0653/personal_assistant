@@ -1,0 +1,4 @@
+- You have to install pyttsx3, speech_recognition and wikipedia libraries.
+- Select voice by using index(Optional)
+- If you want to sent email then you have to place your "From" mail id in sendMail() inside login().
+- Lets run the code and enjoy!!
